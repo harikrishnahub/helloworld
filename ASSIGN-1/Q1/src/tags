@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Atoi	atoi.c	/^int Atoi ( const char *src )$/;"	f
+Strcasecmp	strcasecmp.c	/^int Strcasecmp ( const char *src, const char *dst )$/;"	f
+Strcspn	strcspn.c	/^int Strcspn ( const char *src, const char *reject )$/;"	f
+Strlen	strlen.c	/^int Strlen ( const char *s )$/;"	f
+Strncat	strncat.c	/^char *Strncat ( char *dest, const char *src, int n )$/;"	f
+Strncmp	strncmp.c	/^int Strncmp ( const char *src, const char *dst, int n )$/;"	f
+Strncpy	strncpy.c	/^char *Strncpy ( char *dest, const char *src, int n )$/;"	f
+Strrchr	strrchr.c	/^char *Strrchr( const char *s, int c)$/;"	f
+Strspn	strspn.c	/^int Strspn ( const char *s, const char *t )$/;"	f
+Strstr	strstr.c	/^char *Strstr(const char *str, const char *sub_str)$/;"	f
+Strtok	strtok.c	/^char *Strtok(char *teststr, const char *ch)$/;"	f
+main	main.c	/^int main()$/;"	f
+read_str	read_str.c	/^int read_str ( char *s )$/;"	f
+str_cmp	strtok.c	/^int str_cmp ( const char *s1, const char *s2 )$/;"	f
+to_upper	strcasecmp.c	/^int to_upper ( int c )$/;"	f
+valid_char	valid_char.c	/^int valid_char ( int c )$/;"	f
+valid_str	valid_str.c	/^int valid_str ( char *t )$/;"	f

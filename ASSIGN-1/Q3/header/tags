@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+Isalnum	header.h	1;"	d
+Isalpha	header.h	2;"	d
+Iscntrl	header.h	8;"	d
+Isdigit	header.h	3;"	d
+Islower	header.h	7;"	d
+Isprint	header.h	4;"	d
+Isupper	header.h	5;"	d
+Isxdigit	header.h	6;"	d
+main	test.c	/^int main()$/;"	f
